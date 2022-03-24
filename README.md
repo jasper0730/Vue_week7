@@ -28,10 +28,26 @@ Git Pages: https://jasper0730.github.io/Vue_week7/
 
 登出--V
 
+頁籤--V
+
+購物車顯示幾筆--V
+
+時間轉換成yyyy-mm-dd--V
+
 套件功能
 
-Loading--V
+Bootstrap5--V
 
-頁籤--V
+Ckeditor--V
+
+Vue-loading-overlay--V
+
+Veevalidate--V
+
+Axios--V
+
+Mitt--V
+
+Loading--V
 
 ToastMessage--V
