@@ -1,6 +1,6 @@
 Vue_week7
 
-Git pages: https://jasper0730.github.io/Vue_week7/
+Git Pages: https://jasper0730.github.io/Vue_week7/
 
 架設路由--V
 
